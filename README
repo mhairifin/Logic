@@ -1,0 +1,4 @@
+Logic
+
+My favorite part of this project is the implementation of Dkistra's shunting algorithm, to rearrange a logical formula written traditionally into a propositional formula. This was the most interesting and challenging part of the project, and required creating a stack data structure.
+I am particularly fond of this project because it can be used to solve logic problems. If you can encode a logic problem into a formula, then run it through this program, the resulting truth table can show the answer to the logic problem. 
